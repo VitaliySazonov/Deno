@@ -8,3 +8,5 @@ Deno.test('Sub function ', () => {
     const result = sub(43, 1)
     assertEquals(result, 42);
 })
+
+console.log("new coomm");
